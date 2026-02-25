@@ -97,7 +97,7 @@ Enables deeper operational insights across Supermarket Types and Grocery Stores.
 
 This dashboard transforms retail data into a clear, decision-ready business story.
 
-## 📸 Screenshots / Demo  
+## 📸 Screenshot
 
 [![Blinkit Dashboard Overview]((https://github.com/syadafathima2803/Blinkit-Sales-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png))
 ](https://github.com/syadafathima2803/Blinkit-Sales-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png)
