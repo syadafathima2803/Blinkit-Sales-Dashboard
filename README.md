@@ -99,7 +99,8 @@ This dashboard transforms retail data into a clear, decision-ready business stor
 
 ## 📸 Screenshots / Demo  
 
-![Blinkit Dashboard Overview]((https://github.com/syadafathima2803/Blinkit-Sales-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png))
+[![Blinkit Dashboard Overview]((https://github.com/syadafathima2803/Blinkit-Sales-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png))
+](https://github.com/syadafathima2803/Blinkit-Sales-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png)
 
 **Alt Text:** Blinkit Power BI dashboard showing KPIs for total sales, average sales, number of items, rating, outlet trends, product category analysis, and outlet performance breakdown.
 
